@@ -9,7 +9,5 @@ I like to run **ZSH** with **oh-my-zsh** and [**Powerlevel10K**](https://github.
 Available here: [https://github.com/Peltoche/lsd](https://github.com/Peltoche/lsd). **Check the repo's readme for package manager installation options!**
 
 ### Batcat: a better cat command.
-``` sudo apt install batcat ```<br>
-or <br>
-```sudo pacman -S install bat```
+``` sudo apt install batcat ``` or ```sudo pacman -S install bat```
 
