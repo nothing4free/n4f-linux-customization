@@ -1,0 +1,4 @@
+alias ls="lsd -l"
+alias cat="bat"
+alias oldcat="/bin/cat"
+alias pyserver="python3 -m http.server"
