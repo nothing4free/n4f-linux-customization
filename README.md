@@ -5,10 +5,10 @@ I often find myself constantly switching between Linux VM's and hosts. This is a
 I like to run **ZSH** with **oh-my-zsh** and [**Powerlevel10K**](https://github.com/romkatv/powerlevel10k). 
 
 ## Cool CLI tools / commands I use
-# lsd: a colored, better ls command.
+### lsd: a colored, better ls command.
 Available here: [https://github.com/Peltoche/lsd](https://github.com/Peltoche/lsd). **Check the repo's readme for package manager installation options!**
 
-# Batcat: a better cat command.
+### Batcat: a better cat command.
 ``` sudo apt install batcat ```<br>
 or <br>
 ```sudo pacman -S install bat```
